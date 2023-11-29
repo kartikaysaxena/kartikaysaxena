@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikay</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Interested in DevOps, Blockchain/Web3, Web Development and distributed systems.</h3>
 
 
 ## 🌐 Socials:
