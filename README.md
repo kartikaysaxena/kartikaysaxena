@@ -2,7 +2,7 @@ tldr;
 
 I Joined Github **2** years ago.
 
-Since then I pushed **516** commits, opened **23** issues, submitted **162** pull requests, and contributed to **14** public repositories.
+Since then I pushed **517** commits, opened **26** issues, submitted **162** pull requests, and contributed to **14** public repositories.
 
 Most used languages across my projects:
 
