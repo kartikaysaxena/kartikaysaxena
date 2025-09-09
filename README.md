@@ -2,11 +2,11 @@ tldr;
 
 I Joined Github **2** years ago.
 
-Since then I pushed **517** commits, opened **26** issues, submitted **162** pull requests, and contributed to **14** public repositories.
+Since then I pushed **519** commits, opened **29** issues, submitted **162** pull requests, and contributed to **15** public repositories.
 
 Most used languages across my projects:
 
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B130.8%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B130.7%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B123.3%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B113.2%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B113.2%25)
